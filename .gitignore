@@ -1,0 +1,16 @@
+#env를 안보내기 위해
+__pycache__/
+.env
+
+.devcontainer/
+
+# Mac
+.DS_Store
+
+# python venv
+etc/
+Include/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
