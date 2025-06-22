@@ -1,3 +1,4 @@
+#라이브러리를 한꺼번에 #배포할때마다
 python-dotenv
 langchain-openai
 streamlit
